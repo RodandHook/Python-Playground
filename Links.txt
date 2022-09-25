@@ -1,0 +1,15 @@
+https://docs.python.org/3.10/tutorial/index.html
+https://www.python.org/downloads/
+VSC and GitHub https://www.youtube.com/watch?v=3Tn58KQvWtU
+P4E (2:22:55)  https://www.youtube.com/watch?v=8DvywoWv6fI
+
+AWS account
+	XXXXXXXX
+
+GitHub token
+	ghp_cvIn7wfByHXXXXXXXXXXXXraZYSd1N92pXT2d
+
+Git cmd commands (https://dzone.com/articles/top-20-git-commands-with-examples)
+	$ git remote set-url <remote_name> <remote_url>		change remote url
+	$ git remote -v						review remote urls
+	
